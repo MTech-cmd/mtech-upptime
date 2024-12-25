@@ -4,10 +4,10 @@
     "url": "https://mymellow.mooo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mymellow.mooo.com.ico",
     "slug": "squish-factory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
     "time": 806,
@@ -16,6 +16,7 @@
     "timeMonth": 786,
     "timeYear": 806,
     "dailyMinutesDown": {
+      "2024-12-25": 1,
       "2024-09-12": 1094,
       "2024-09-11": 48
     }
@@ -25,10 +26,10 @@
     "url": "https://herodb.mooo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/herodb.mooo.com.ico",
     "slug": "hero-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
     "time": 511,
@@ -37,6 +38,7 @@
     "timeMonth": 558,
     "timeYear": 511,
     "dailyMinutesDown": {
+      "2024-12-25": 1,
       "2024-09-12": 1094,
       "2024-09-11": 47
     }
@@ -46,9 +48,9 @@
     "url": "https://develop.twilightparadox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/develop.twilightparadox.com.ico",
     "slug": "dev-env",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
@@ -58,6 +60,7 @@
     "timeMonth": 689,
     "timeYear": 589,
     "dailyMinutesDown": {
+      "2024-12-25": 0,
       "2024-09-12": 1095,
       "2024-09-11": 47
     }
