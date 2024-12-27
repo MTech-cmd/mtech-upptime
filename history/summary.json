@@ -4,10 +4,10 @@
     "url": "https://mymellow.mooo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mymellow.mooo.com.ico",
     "slug": "squish-factory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 805,
@@ -16,6 +16,7 @@
     "timeMonth": 749,
     "timeYear": 805,
     "dailyMinutesDown": {
+      "2024-12-27": 2,
       "2024-09-12": 1094,
       "2024-09-11": 48
     }
@@ -25,10 +26,10 @@
     "url": "https://herodb.mooo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/herodb.mooo.com.ico",
     "slug": "hero-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 511,
@@ -37,6 +38,7 @@
     "timeMonth": 560,
     "timeYear": 511,
     "dailyMinutesDown": {
+      "2024-12-27": 1,
       "2024-09-12": 1094,
       "2024-09-11": 47
     }
@@ -46,10 +48,10 @@
     "url": "https://develop.twilightparadox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/develop.twilightparadox.com.ico",
     "slug": "dev-env",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 588,
@@ -58,6 +60,7 @@
     "timeMonth": 492,
     "timeYear": 588,
     "dailyMinutesDown": {
+      "2024-12-27": 1,
       "2024-09-12": 1095,
       "2024-09-11": 47
     }
@@ -67,9 +70,9 @@
     "url": "https://ashmedai.mooo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ashmedai.mooo.com.ico",
     "slug": "asmodeus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
@@ -79,6 +82,7 @@
     "timeMonth": 463,
     "timeYear": 568,
     "dailyMinutesDown": {
+      "2024-12-27": 0,
       "2024-09-12": 1095,
       "2024-09-11": 46
     }
