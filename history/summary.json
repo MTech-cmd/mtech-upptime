@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2025-02-18": 934,
+      "2025-02-18": 951,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -84,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2025-02-18": 934,
+      "2025-02-18": 952,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -152,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2025-02-18": 934,
+      "2025-02-18": 952,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -220,7 +220,7 @@
     "timeMonth": 0,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2025-02-18": 934,
+      "2025-02-18": 952,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -276,17 +276,17 @@
     "url": "https://myhugonetlifytut.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/myhugonetlifytut.netlify.app.ico",
     "slug": "hugo-netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.15%",
+    "uptimeDay": "96.14%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
-    "time": 143,
-    "timeDay": 185,
-    "timeWeek": 190,
-    "timeMonth": 173,
-    "timeYear": 143,
+    "time": 144,
+    "timeDay": 201,
+    "timeWeek": 198,
+    "timeMonth": 176,
+    "timeYear": 144,
     "dailyMinutesDown": {
       "2025-02-18": 55
     }
