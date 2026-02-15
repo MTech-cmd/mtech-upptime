@@ -3,23 +3,6 @@ owner: MTech-cmd # Your GitHub organization or username, where this repository l
 repo: mtech-upptime # The name of this repository
 
 sites:
-  # Asmodeus
-  - name: SquishFactory
-    url: https://mymellow.mooo.com/
-  - name: HeroDB
-    url: https://herodb.mooo.com/
-  - name: Dev env
-    url: https://develop.twilightparadox.com/
-  - name: Asmodeus
-    url: https://ashmedai.mooo.com/
-  # Netlify
-  - name: Hugo Netlify
-    url: https://myhugonetlifytut.netlify.app/
-  # GitHub Pages
-  - name: Portfolio
-    url: https://mtech-cmd.github.io
-  - name: Twitchwind
-    url: https://mtech-cmd.github.io/Twitchwind/
   - name: This page
     url: https://mtech-cmd.github.io/mtech-upptime/
 
